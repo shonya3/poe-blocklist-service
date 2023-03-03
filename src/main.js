@@ -17,7 +17,6 @@ app.get('/get-items', async (req, res) => {
 app.post('/active-character-names', async (req, res) => {
 	try {
 		const { profiles } = req.body;
-		console.log({ body: req.body });
 		if (!profiles) {
 			return res.status(400).json({
 				status: 'error',
@@ -25,7 +24,6 @@ app.post('/active-character-names', async (req, res) => {
 			});
 		}
 		const names = await CharacterService.loadNames(profiles);
-		console.log(names);
 		res.status(200).json({
 			names,
 		});

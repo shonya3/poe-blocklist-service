@@ -30,8 +30,7 @@ const fetchChactersPage = async profile => {
 };
 
 const loadNames = async users => {
-	const texts = await Promise.all(users.map(user => fetchChactersPage(user)));
-	return texts.map(text => getNameFromHtmlText(text));
+	return Promise.all(users.map(async user => ({ [`${user}`]: getNameFromHtmlText(await fetchChactersPage(user)) })));
 };
 
 export const CharacterService = {
