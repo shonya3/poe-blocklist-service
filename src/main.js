@@ -18,7 +18,7 @@ app.post('/active-character-names', async (req, res) => {
 	res.setHeader('Access-Control-Allow-Origin', '*');
 	const { profiles } = req.body;
 	if (!profiles) {
-		res.status(400).json({
+		return res.status(200).json({
 			status: 'error',
 			message: 'Expected profiles array.',
 		});
