@@ -12,6 +12,29 @@ const getCharacterInfo = async (account, character) => {
 	}
 };
 
+const getNameFromHtmlText = htmlText => {
+	try {
+		const line = htmlText.split('\n').find(line => line.includes('new C'));
+		const firstBracketIndex = line.indexOf('{');
+		const lastBracketIndex = line.indexOf('}');
+		const { name } = JSON.parse(line.slice(firstBracketIndex, lastBracketIndex + 1));
+		return name;
+	} catch (err) {
+		return null;
+	}
+};
+
+const fetchChactersPage = async profile => {
+	const response = await fetch(`https://ru.pathofexile.com/account/view-profile/${profile}/characters`);
+	return response.text();
+};
+
+const loadNames = async users => {
+	const texts = await Promise.all(users.map(user => fetchChactersPage(user)));
+	return texts.map(text => getNameFromHtmlText(text));
+};
+
 export const CharacterService = {
 	getCharacterInfo,
+	loadNames,
 };
