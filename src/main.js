@@ -15,19 +15,24 @@ app.get('/get-items', async (req, res) => {
 });
 
 app.post('/active-character-names', async (req, res) => {
-	res.setHeader('Access-Control-Allow-Origin', '*');
-	const { profiles } = req.body;
-	if (!profiles) {
-		return res.status(200).json({
-			status: 'error',
-			message: 'Expected profiles array.',
+	try {
+		res.setHeader('Access-Control-Allow-Origin', '*');
+		const { profiles } = req.body;
+		console.log({ profiles });
+		if (!profiles) {
+			return res.status(400).json({
+				status: 'error',
+				message: 'Expected profiles array.',
+			});
+		}
+		const names = await CharacterService.loadNames(profiles);
+		console.log(names);
+		res.status(200).json({
+			names,
 		});
+	} catch (err) {
+		console.log('Error', err);
 	}
-	const names = await CharacterService.loadNames(profiles);
-	console.log(names);
-	res.status(200).json({
-		names,
-	});
 });
 
 app.listen(port, () => {
