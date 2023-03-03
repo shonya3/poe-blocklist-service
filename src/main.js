@@ -5,6 +5,7 @@ const app = express();
 const port = 8000;
 
 app.use(cors());
+app.options('*', cors());
 
 app.get('/get-items', async (req, res) => {
 	const { character, accountName } = req.query;
