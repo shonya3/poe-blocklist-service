@@ -15,6 +15,7 @@ app.get('/get-items', async (req, res) => {
 });
 
 app.post('/active-character-names', async (req, res) => {
+	res.setHeader('Access-Control-Allow-Origin', '*');
 	const { profiles } = req.body;
 	if (!profiles) {
 		res.status(400).json({
@@ -23,7 +24,6 @@ app.post('/active-character-names', async (req, res) => {
 		});
 	}
 	const names = await CharacterService.loadNames(profiles);
-	res.setHeader('Access-Control-Allow-Origin', '*');
 	console.log(names);
 	res.status(200).json({
 		names,
