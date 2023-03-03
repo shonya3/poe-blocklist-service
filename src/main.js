@@ -16,7 +16,6 @@ app.get('/get-items', async (req, res) => {
 
 app.post('/active-character-names', async (req, res) => {
 	try {
-		res.setHeader('Access-Control-Allow-Origin', '*');
 		const { profiles } = req.body;
 		console.log({ body: req.body });
 		if (!profiles) {
