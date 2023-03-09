@@ -42,7 +42,20 @@ const loadActiveNamesByProfiles = async profiles => {
 	return profilesWithActiveNames;
 };
 
+const loadInfos = async profiles => {
+	const profilesWithActiveNames = await CharacterService.loadActiveNamesByProfiles(profiles);
+	const results = [];
+	const promises = Object.entries(profilesWithActiveNames).map(async ([profile, activeCharacterName]) => {
+		const info = await getCharacterInfo(profile, activeCharacterName);
+		results.push({ profile, info });
+	});
+
+	await Promise.all(promises);
+	return results;
+};
+
 export const CharacterService = {
 	getCharacterInfo,
 	loadActiveNamesByProfiles,
+	loadInfos,
 };

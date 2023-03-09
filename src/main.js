@@ -34,16 +34,11 @@ app.post('/info', async (req, res) => {
 			});
 		}
 
-		const profilesWithActiveNames = await CharacterService.loadActiveNamesByProfiles(profiles);
-		const infosByProfile = {};
-		const promises = Object.entries(profilesWithActiveNames).map(async ([profile, activeCharacterName]) => {
-			const info = await CharacterService.getCharacterInfo(profile, activeCharacterName);
-			infosByProfile[profile] = info;
+		const infos = await CharacterService.loadInfos(profiles);
+		res.status(200).json({
+			status: 'success',
+			data: infos,
 		});
-
-		await Promise.all(promises);
-
-		res.status(200).json(infosByProfile);
 	} catch (err) {
 		console.log(err);
 	}
