@@ -7,7 +7,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "dist/main.js",
-		"build": "npm install && npx tsc",
+		"build": "npm install && tsc",
 		"prestart": "npm run build",
 		"dev": "tsc-watch --onSuccess \"node ./dist/main.js\""
 	},
