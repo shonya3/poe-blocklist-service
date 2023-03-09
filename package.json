@@ -6,7 +6,9 @@
 	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": " src/main.js",
+		"start": "dist/main.js",
+        "build": "npm install && tsc",
+        "prestart": "npm run build",
 		"dev": "tsc-watch --onSuccess \"node ./dist/main.js\""
 	},
 	"keywords": [],
