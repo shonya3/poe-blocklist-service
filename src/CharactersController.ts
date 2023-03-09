@@ -1,14 +1,7 @@
-import express from 'express';
-import cors from 'cors';
+import { RequestHandler } from 'express';
 import { CharacterService } from './CharacterService.js';
-const app = express();
-const port = 8000;
 
-app.use(express.json({ limit: '10kb' }));
-app.use(cors());
-app.options('*', cors());
-
-app.post('/active', async (req, res) => {
+const active: RequestHandler = async (req, res) => {
 	try {
 		const { profiles } = req.body;
 		if (!profiles) {
@@ -18,13 +11,16 @@ app.post('/active', async (req, res) => {
 			});
 		}
 		const names = await CharacterService.loadActiveNamesByProfiles(profiles);
-		res.status(200).json(names);
+		res.status(200).json({
+			status: 'success',
+			data: names,
+		});
 	} catch (err) {
 		console.log('Error', err);
 	}
-});
+};
 
-app.post('/info', async (req, res) => {
+const info: RequestHandler = async (req, res) => {
 	try {
 		const { profiles } = req.body;
 		if (!profiles) {
@@ -35,15 +31,13 @@ app.post('/info', async (req, res) => {
 		}
 
 		const infos = await CharacterService.loadInfos(profiles);
-		res.status(200).json({
+		return res.status(200).json({
 			status: 'success',
 			data: infos,
 		});
 	} catch (err) {
 		console.log(err);
 	}
-});
+};
 
-app.listen(port, () => {
-	console.log('Example app listening on port ', port);
-});
+export const CharactersController = { active, info };
