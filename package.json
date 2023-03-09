@@ -8,7 +8,7 @@
 		"tsc": "./node_modules/typescript/bin/tsc",
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "dist/main.js",
-		"build": "npm install && tsc",
+		"build": "npm install && npm run tsc",
 		"prestart": "npm run build",
 		"dev": "tsc-watch --onSuccess \"node ./dist/main.js\""
 	},
