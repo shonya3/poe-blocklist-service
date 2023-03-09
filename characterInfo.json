@@ -1,0 +1,3050 @@
+{
+	"SHONYA3": {
+		"items": [
+			{
+				"verified": false,
+				"w": 2,
+				"h": 3,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1ZlcmRhbnRHdWFyZGlhblN3b3JkMSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/b085f741a5/VerdantGuardianSword1.png",
+				"league": "Hardcore Sanctum",
+				"id": "49bcb56a723fc694dc849009f2617da11aa5b7eb123909398cef534e54b9c483",
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "D",
+						"sColour": "G"
+					}
+				],
+				"name": "Grelwood Shank",
+				"typeLine": "Eternal Sword",
+				"baseType": "Eternal Sword",
+				"identified": true,
+				"ilvl": 84,
+				"properties": [
+					{
+						"name": "One Handed Sword",
+						"values": [],
+						"displayMode": 0
+					},
+					{
+						"name": "Quality",
+						"values": [["+20%", 1]],
+						"displayMode": 0,
+						"type": 6
+					},
+					{
+						"name": "Physical Damage",
+						"values": [["127-210", 1]],
+						"displayMode": 0,
+						"type": 9
+					},
+					{
+						"name": "Critical Strike Chance",
+						"values": [["5.00%", 0]],
+						"displayMode": 0,
+						"type": 12
+					},
+					{
+						"name": "Attacks per Second",
+						"values": [["1.79", 1]],
+						"displayMode": 0,
+						"type": 13
+					},
+					{
+						"name": "Weapon Range",
+						"values": [["11", 0]],
+						"displayMode": 0,
+						"type": 14
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["66", 0]],
+						"displayMode": 0,
+						"type": 62
+					},
+					{
+						"name": "Str",
+						"values": [["117", 0]],
+						"displayMode": 1,
+						"type": 63,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Dex",
+						"values": [["122", 0]],
+						"displayMode": 1,
+						"type": 64
+					},
+					{
+						"name": "Int",
+						"values": [["38", 0]],
+						"displayMode": 1,
+						"type": 65,
+						"suffix": "(gem)"
+					}
+				],
+				"implicitMods": ["+475 to Accuracy Rating"],
+				"explicitMods": [
+					"189% increased Physical Damage",
+					"19% increased Attack Speed",
+					"80% increased Armour while stationary",
+					"Skills fire 2 additional Projectiles if you've been Hit Recently",
+					"Point Blank",
+					"Iron Reflexes while stationary"
+				],
+				"flavourText": [
+					"Through countless seasons they stand, stoic,\r",
+					"Each season leaving its mark; \r",
+					"a memory written in fibrous flesh."
+				],
+				"frameType": 3,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Offhand",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Nhc3RPbkRtZ1Rha2VuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2f075f5964/CastOnDmgTaken.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "5379dc973a5f4b5410aa80c04eb81485c7bc05f9dfb36aebfaeb9d7808cc3723",
+						"name": "",
+						"typeLine": "Cast when Damage Taken Support",
+						"baseType": "Cast when Damage Taken Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Support, Spell, Trigger",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["9", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["250%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["0.25 sec", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["54", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["55", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["38", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["1956648/1956648", 0]],
+								"displayMode": 2,
+								"progress": 1,
+								"type": 20
+							}
+						],
+						"nextLevelRequirements": [
+							{
+								"name": "Level",
+								"values": [["56", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Str",
+								"values": [["57", 0]],
+								"displayMode": 1
+							},
+							{
+								"name": "Int",
+								"values": [["39", 0]],
+								"displayMode": 1
+							}
+						],
+						"secDescrText": "Each supported spell skill will track damage you take, and be triggered when the total damage taken reaches a threshold. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills with a reservation cannot be triggered.",
+						"explicitMods": [
+							"This Gem can only Support Skill Gems requiring Level 54 or lower",
+							"Supported Skills deal 49% less Damage",
+							"You cannot Cast Supported Triggerable Spells directly",
+							"Trigger Supported Spells when you take a total of 1221 Damage"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 0,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Nb2x0ZW5TaGVsbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9d2618a44a/MoltenShell.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "ca1e3316578f80c8946de4138d47394766572c4dc2ee6c356c64eddcf6e6a7f3",
+						"name": "",
+						"typeLine": "Molten Shell",
+						"baseType": "Molten Shell",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Spell, AoE, Duration, Fire, Physical, Guard",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["14", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["11 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["4.00 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["Instant", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["52", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["117", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["2573731/2573731", 0]],
+								"displayMode": 2,
+								"progress": 1,
+								"type": 20
+							}
+						],
+						"nextLevelRequirements": [
+							{
+								"name": "Level",
+								"values": [["55", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Str",
+								"values": [["123", 0]],
+								"displayMode": 1
+							}
+						],
+						"secDescrText": "Applies a buff that adds to your armour, and can take some of the damage from hits for you before being depleted. When the buff expires or is depleted, the skill deals reflected damage to enemies around you based on the total damage that was taken from the buff. Shares a cooldown with other Guard skills.",
+						"explicitMods": [
+							"Base duration is 3.00 seconds",
+							"This Skill's Cooldown does not recover during its effect",
+							"75% of Damage from Hits is taken from the Buff before your Life or Energy Shield\nBuff can take Damage equal to 20% of your Armour, up to a maximum of 10000",
+							"Reflects 1620% of Damage taken from Buff as Fire Damage when Buff expires or is depleted",
+							"Buff grants +495 to Armour"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "S"
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 3,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1ZlcmRhbnRHdWFyZGlhblN3b3JkMSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/b085f741a5/VerdantGuardianSword1.png",
+				"league": "Hardcore Sanctum",
+				"id": "297885650c515456881e06c18363c8a4cf5966db99785553f57a312017d13196",
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "I",
+						"sColour": "B"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					}
+				],
+				"name": "Grelwood Shank",
+				"typeLine": "Eternal Sword",
+				"baseType": "Eternal Sword",
+				"identified": true,
+				"ilvl": 80,
+				"properties": [
+					{
+						"name": "One Handed Sword",
+						"values": [],
+						"displayMode": 0
+					},
+					{
+						"name": "Quality",
+						"values": [["+20%", 1]],
+						"displayMode": 0,
+						"type": 6
+					},
+					{
+						"name": "Physical Damage",
+						"values": [["132-218", 1]],
+						"displayMode": 0,
+						"type": 9
+					},
+					{
+						"name": "Critical Strike Chance",
+						"values": [["5.00%", 0]],
+						"displayMode": 0,
+						"type": 12
+					},
+					{
+						"name": "Attacks per Second",
+						"values": [["1.79", 1]],
+						"displayMode": 0,
+						"type": 13
+					},
+					{
+						"name": "Weapon Range",
+						"values": [["11", 0]],
+						"displayMode": 0,
+						"type": 14
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["66", 0]],
+						"displayMode": 0,
+						"type": 62
+					},
+					{
+						"name": "Str",
+						"values": [["104", 0]],
+						"displayMode": 1,
+						"type": 63
+					},
+					{
+						"name": "Dex",
+						"values": [["122", 0]],
+						"displayMode": 1,
+						"type": 64
+					},
+					{
+						"name": "Int",
+						"values": [["62", 0]],
+						"displayMode": 1,
+						"type": 65,
+						"suffix": "(gem)"
+					}
+				],
+				"implicitMods": ["+475 to Accuracy Rating"],
+				"explicitMods": [
+					"201% increased Physical Damage",
+					"19% increased Attack Speed",
+					"80% increased Armour while stationary",
+					"Skills fire 2 additional Projectiles if you've been Hit Recently",
+					"Point Blank",
+					"Iron Reflexes while stationary"
+				],
+				"flavourText": [
+					"Through countless seasons they stand, stoic,\r",
+					"Each season leaving its mark; \r",
+					"a memory written in fibrous flesh."
+				],
+				"frameType": 3,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Weapon",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRvZkFzaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/10697bcbfe/HeraldofAsh.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "eb419d12febd7f1ef0c98998c1726144f295173b46a613347cc531c9995cdc3f",
+						"name": "",
+						"typeLine": "Herald of Ash",
+						"baseType": "Herald of Ash",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Spell, AoE, Fire, Herald, Duration",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["17", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Reservation",
+								"values": [["25% Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["1.00 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["Instant", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Quality",
+								"values": [["+20%", 1]],
+								"displayMode": 0,
+								"type": 6
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["64", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["90", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["62", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["17285299/26272845", 0]],
+								"displayMode": 2,
+								"progress": 0.66,
+								"type": 20
+							}
+						],
+						"secDescrText": "Grants a buff providing fire damage based on your physical damage. While you have this buff, if you kill an enemy, other enemies near them will be burned based on the overkill damage. The burn inflicted by this skill can only be affected by modifiers to damage over time (burning damage is damage over time).",
+						"explicitMods": [
+							"Base duration is 4.00 seconds",
+							"Base Burning Damage is 25% of Overkill Damage",
+							"32% more Burning Damage",
+							"Buff grants 15% of your Physical Damage as Extra Fire Damage",
+							"Buff grants 15% increased Fire Damage",
+							"Buff grants 12% more Spell Fire Damage"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 0,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdXJnZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/773530e679/Purge.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "5fa5bea18afc29a20f3790621525cd36d2eb04184692d361d25c67cd2a8e9c8a",
+						"name": "",
+						"typeLine": "Wave of Conviction",
+						"baseType": "Wave of Conviction",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Fire, Lightning, Spell, AoE, Duration, Physical",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["1", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["9 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["0.70 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Critical Strike Chance",
+								"values": [["6.00%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Effectiveness of Added Damage",
+								"values": [["330%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["16", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["18", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["26", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["49725/49725", 0]],
+								"displayMode": 2,
+								"progress": 1,
+								"type": 20
+							}
+						],
+						"nextLevelRequirements": [
+							{
+								"name": "Level",
+								"values": [["20", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Str",
+								"values": [["22", 0]],
+								"displayMode": 1
+							},
+							{
+								"name": "Int",
+								"values": [["31", 0]],
+								"displayMode": 1
+							}
+						],
+						"secDescrText": "An expanding wave of energy surges forward, damaging enemies in a cone-shaped area over a duration. Each enemy hit is inflicted with Exposure matching the element of which they took the highest damage. Only one Wave of Conviction can be active at a time",
+						"explicitMods": [
+							"Deals 35 to 52 Physical Damage",
+							"25% of Physical Damage Converted to Lightning Damage",
+							"Base duration is 0.50 seconds",
+							"Base secondary duration is 4.00 seconds",
+							"25% of Physical Damage Converted to Fire Damage",
+							"Exposure applies -15% to Elemental Resistance matching highest Damage taken"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "I"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Nhc3RPbkRtZ1Rha2VuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2f075f5964/CastOnDmgTaken.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "c3682de14d1ad08f11e4e78cb5374ee449a637681c368a1eee7a125c86f2ece8",
+						"name": "",
+						"typeLine": "Cast when Damage Taken Support",
+						"baseType": "Cast when Damage Taken Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Support, Spell, Trigger",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["1", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["250%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["0.25 sec", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["38", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["39", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["27", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["388734/388734", 0]],
+								"displayMode": 2,
+								"progress": 1,
+								"type": 20
+							}
+						],
+						"nextLevelRequirements": [
+							{
+								"name": "Level",
+								"values": [["40", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Str",
+								"values": [["41", 0]],
+								"displayMode": 1
+							},
+							{
+								"name": "Int",
+								"values": [["29", 0]],
+								"displayMode": 1
+							}
+						],
+						"secDescrText": "Each supported spell skill will track damage you take, and be triggered when the total damage taken reaches a threshold. Cannot support skills used by totems, traps, or mines. Vaal skills, channelling skills, and skills with a reservation cannot be triggered.",
+						"explicitMods": [
+							"This Gem can only Support Skill Gems requiring Level 38 or lower",
+							"Supported Skills deal 65% less Damage",
+							"You cannot Cast Supported Triggerable Spells directly",
+							"Trigger Supported Spells when you take a total of 528 Damage"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 2,
+						"colour": "S"
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvYmlzbXV0aCIsInciOjEsImgiOjIsInNjYWxlIjoxLCJsZXZlbCI6MX1d/fbda460273/bismuth.png",
+				"league": "Hardcore Sanctum",
+				"id": "1ba3db23dc83e02ed0f16e191a25bfcdf7d019246df58157f35cbe6bfe22c866",
+				"name": "",
+				"typeLine": "Transgressor's Bismuth Flask of the Falcon",
+				"baseType": "Bismuth Flask",
+				"identified": true,
+				"ilvl": 54,
+				"properties": [
+					{
+						"name": "Lasts {0} Seconds",
+						"values": [["8.50", 0]],
+						"displayMode": 3
+					},
+					{
+						"name": "Consumes {0} of {1} Charges on use",
+						"values": [
+							["15", 0],
+							["40", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Currently has {0} Charges",
+						"values": [["40", 0]],
+						"displayMode": 3
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["23", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"utilityMods": ["+35% to all Elemental Resistances"],
+				"explicitMods": [
+					"Gain 1 Charge when you are Hit by an Enemy",
+					"9% increased Attack Speed during Effect"
+				],
+				"descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+				"frameType": 1,
+				"x": 3,
+				"y": 0,
+				"inventoryId": "Flask"
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb290cy9Cb290c1N0ckRleDMiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MSwic2VhcmluZyI6dHJ1ZSwidGFuZ2xlZCI6dHJ1ZX1d/56b077d61b/BootsStrDex3.png",
+				"league": "Hardcore Sanctum",
+				"id": "a16540242c199dac29af5cc4c1bdef266eabde46e63c6784e636550a209362f7",
+				"searing": true,
+				"tangled": true,
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "D",
+						"sColour": "G"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "D",
+						"sColour": "G"
+					}
+				],
+				"name": "Kraken Track",
+				"typeLine": "Wyrmscale Boots",
+				"baseType": "Wyrmscale Boots",
+				"identified": true,
+				"ilvl": 70,
+				"properties": [
+					{
+						"name": "Armour",
+						"values": [["121", 1]],
+						"displayMode": 0,
+						"type": 16
+					},
+					{
+						"name": "Evasion Rating",
+						"values": [["121", 1]],
+						"displayMode": 0,
+						"type": 17
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["70", 0]],
+						"displayMode": 0,
+						"type": 62,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Str",
+						"values": [["155", 0]],
+						"displayMode": 1,
+						"type": 63,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Dex",
+						"values": [["111", 0]],
+						"displayMode": 1,
+						"type": 64,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Int",
+						"values": [["68", 0]],
+						"displayMode": 1,
+						"type": 65,
+						"suffix": "(gem)"
+					}
+				],
+				"enchantMods": ["+8% chance to Suppress Spell Damage if you've\ntaken Spell Damage Recently"],
+				"implicitMods": ["33% chance to Avoid being Poisoned", "6% increased Effect of Onslaught on you"],
+				"explicitMods": [
+					"+40 to Strength",
+					"21% increased Armour and Evasion",
+					"+88 to maximum Life",
+					"Regenerate 10.5 Life per second",
+					"+41% to Fire Resistance",
+					"10% increased Movement Speed",
+					"10% increased Stun and Block Recovery"
+				],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Boots",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MZWFwU2xhbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f65891de7a/LeapSlam.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "fed788265525be104380ff321e20e5d78362bab81c78f27774dbd15592ff0cfb",
+						"name": "",
+						"typeLine": "Leap Slam",
+						"baseType": "Leap Slam",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Attack, AoE, Movement, Travel, Slam, Melee",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["10 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Attack Damage",
+								"values": [["150% of base", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Effectiveness of Added Damage",
+								"values": [["150%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Jump into the air, damaging and knocking back enemies with your weapon where you land. Enemies you would land on are pushed out of the way. Requires an Axe, Mace, Sceptre, Sword or Staff. Cannot be supported by Multistrike.",
+						"explicitMods": [
+							"39% increased Stun Duration against Enemies that are on Full Life",
+							"+0.55 seconds to Attack Time",
+							"Damaging Hits always Stun Enemies that are on Full Life"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 0,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Zhc3RlckF0dGFja3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c3e1544a95/FasterAttacks.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "e1c56b40b6cfc6cbe646ea42938c61ef6c9699a5884346da911df077d808fa6b",
+						"name": "",
+						"typeLine": "Faster Attacks Support",
+						"baseType": "Faster Attacks Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Attack, Support",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["110%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Quality",
+								"values": [["+20%", 1]],
+								"displayMode": 0,
+								"type": 6
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Dex",
+								"values": [["111", 0]],
+								"displayMode": 1,
+								"type": 64
+							}
+						],
+						"secDescrText": "Supports attack skills.",
+						"explicitMods": ["Supported Skills have 54% increased Attack Speed"],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "D"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0xpZmVUYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9cef38ae47/LifeTap.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "70891ef86b9ec6455277ce4fdd50aaebb05d6b2ade764d5febf9dabe6e80d9fe",
+						"name": "",
+						"typeLine": "Lifetap Support",
+						"baseType": "Lifetap Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Support, Duration",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["300%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["111", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Supports any non-blessing skill. Minions cannot gain the Lifetap buff.",
+						"explicitMods": [
+							"Supported Skills Cost Life instead of Mana",
+							"Gain Lifetap after Spending a total of 273 Life on Upfront\nCosts and Effects of a Supported Skill",
+							"Supported Skills deal 19% more Damage while you have Lifetap",
+							"Lifetap lasts 4 seconds"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 2,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VFbGVtZW50YWxTdW1tb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1b7a06245a/IceElementalSummon.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "bc6653255f4d6b2777aaeeddf9fa683a5397c8a0178d9a4dbe048f7f3fb846d7",
+						"name": "",
+						"typeLine": "Summon Ice Golem",
+						"baseType": "Summon Ice Golem",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Critical, Cold, Minion, Spell, Golem",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["54 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["6.00 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["1.00 sec", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Dex",
+								"values": [["98", 0]],
+								"displayMode": 1,
+								"type": 64
+							},
+							{
+								"name": "Int",
+								"values": [["68", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"secDescrText": "Summons an Ice Golem that grants you increased Critical Strike Chance and Accuracy. The Ice Golem can use an icy barrage spell and a chilling spinning dash in addition to its melee attack.",
+						"explicitMods": [
+							"Maximum 1 Summoned Golem",
+							"38% increased Minion Maximum Life",
+							"Golems Grant 30% increased Critical Strike Chance",
+							"Golems Grant 30% increased Accuracy"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 3,
+						"colour": "D"
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 3,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvT25lSGFuZE1hY2UxIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/e51d4ef68d/OneHandMace1.png",
+				"league": "Hardcore Sanctum",
+				"id": "d9a186d5a61b18b728741fa2d1aaae5558154ad4df82cf59d0a1cdb01193ad60",
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					}
+				],
+				"name": "",
+				"typeLine": "Driftwood Club",
+				"baseType": "Driftwood Club",
+				"identified": true,
+				"ilvl": 1,
+				"properties": [
+					{
+						"name": "One Handed Mace",
+						"values": [],
+						"displayMode": 0
+					},
+					{
+						"name": "Physical Damage",
+						"values": [["6-8", 0]],
+						"displayMode": 0,
+						"type": 9
+					},
+					{
+						"name": "Critical Strike Chance",
+						"values": [["5.00%", 0]],
+						"displayMode": 0,
+						"type": 12
+					},
+					{
+						"name": "Attacks per Second",
+						"values": [["1.45", 0]],
+						"displayMode": 0,
+						"type": 13
+					},
+					{
+						"name": "Weapon Range",
+						"values": [["11", 0]],
+						"displayMode": 0,
+						"type": 14
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["70", 0]],
+						"displayMode": 0,
+						"type": 62,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Str",
+						"values": [["98", 0]],
+						"displayMode": 1,
+						"type": 63,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Int",
+						"values": [["68", 0]],
+						"displayMode": 1,
+						"type": 65,
+						"suffix": "(gem)"
+					}
+				],
+				"implicitMods": ["10% reduced Enemy Stun Threshold"],
+				"frameType": 0,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Weapon2",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1dlYXBvbkVsZW1lbnRhbERhbWFnZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2cfbdc80b2/WeaponElementalDamage.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "38ba47210a2bbcfe21617edb371d0a0db8abcaaf29e75f6bc7be1d349567f2ad",
+						"name": "",
+						"typeLine": "Elemental Damage with Attacks Support",
+						"baseType": "Elemental Damage with Attacks Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Attack, Support",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["130%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Quality",
+								"values": [["+20%", 1]],
+								"displayMode": 0,
+								"type": 6
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["70", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["48", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"secDescrText": "Supports attack skills.",
+						"explicitMods": [
+							"10% increased Elemental Damage with Attack Skills",
+							"Supported Attack Skills deal 34% more Elemental Damage"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 0,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdGF0aWNHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6eee72093c/StaticGem.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "7c2df8939d739b8870d834b435b79f634c082d409afeb9ce32133225a9e8956b",
+						"name": "",
+						"typeLine": "Static Strike",
+						"baseType": "Static Strike",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Attack, Melee, Strike, AoE, Duration, Lightning, Chaining",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["6 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Attack Damage",
+								"values": [["188% of base", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Effectiveness of Added Damage",
+								"values": [["188%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["98", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["68", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"secDescrText": "Attack with a melee weapon, gaining static energy for a duration if you hit an enemy. While you have static energy, you'll frequently hit a number of nearby enemies with beams, dealing attack damage.",
+						"explicitMods": [
+							"Beams Hit Enemies every 0.32 seconds",
+							"50% of Physical Damage Converted to Lightning Damage",
+							"Base duration is 3.00 seconds",
+							"Chains +1 Times",
+							"Beams deal 40% less Damage",
+							"6 maximum Beam Targets"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "S"
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 3,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyNyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/6b9c62e4c3/scepter7.png",
+				"league": "Hardcore Sanctum",
+				"id": "c3619e06fb9d6c36a8f1a46e3bda5ea167e0bcd83150ef086e0e0b8e2b8494c5",
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "I",
+						"sColour": "B"
+					},
+					{
+						"group": 0,
+						"attr": "D",
+						"sColour": "G"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					}
+				],
+				"name": "",
+				"typeLine": "Royal Sceptre",
+				"baseType": "Royal Sceptre",
+				"identified": true,
+				"ilvl": 50,
+				"properties": [
+					{
+						"name": "Sceptre",
+						"values": [],
+						"displayMode": 0
+					},
+					{
+						"name": "Physical Damage",
+						"values": [["34-80", 0]],
+						"displayMode": 0,
+						"type": 9
+					},
+					{
+						"name": "Critical Strike Chance",
+						"values": [["6.00%", 0]],
+						"displayMode": 0,
+						"type": 12
+					},
+					{
+						"name": "Attacks per Second",
+						"values": [["1.20", 0]],
+						"displayMode": 0,
+						"type": 13
+					},
+					{
+						"name": "Weapon Range",
+						"values": [["11", 0]],
+						"displayMode": 0,
+						"type": 14
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["50", 0]],
+						"displayMode": 0,
+						"type": 62
+					},
+					{
+						"name": "Str",
+						"values": [["86", 0]],
+						"displayMode": 1,
+						"type": 63
+					},
+					{
+						"name": "Int",
+						"values": [["86", 0]],
+						"displayMode": 1,
+						"type": 65
+					}
+				],
+				"implicitMods": ["24% increased Elemental Damage"],
+				"frameType": 0,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Offhand2",
+				"socketedItems": []
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3Mvc3ByaW50IiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/aa66be180b/sprint.png",
+				"league": "Hardcore Sanctum",
+				"id": "825c19d3975420f9749eae7300b269dc42e933b1a5c2e3a07d5ed4ffbb6d70b0",
+				"name": "",
+				"typeLine": "Apprentice's Quicksilver Flask of the Mockingbird",
+				"baseType": "Quicksilver Flask",
+				"identified": true,
+				"ilvl": 77,
+				"properties": [
+					{
+						"name": "Quality",
+						"values": [["+20%", 1]],
+						"displayMode": 0,
+						"type": 6
+					},
+					{
+						"name": "Lasts {0} Seconds",
+						"values": [["7.20", 1]],
+						"displayMode": 3
+					},
+					{
+						"name": "Consumes {0} of {1} Charges on use",
+						"values": [
+							["25", 1],
+							["60", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Currently has {0} Charges",
+						"values": [["60", 0]],
+						"displayMode": 3
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["21", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"utilityMods": ["40% increased Movement Speed"],
+				"explicitMods": ["15% reduced Charges per use", "44% reduced Effect of Curses on you during Effect"],
+				"descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+				"frameType": 1,
+				"x": 2,
+				"y": 0,
+				"inventoryId": "Flask"
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 1,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQmVsdHMvQWJ5c3NCZWx0IiwidyI6MiwiaCI6MSwic2NhbGUiOjF9XQ/973fb5fe7a/AbyssBelt.png",
+				"league": "Hardcore Sanctum",
+				"id": "2f7fcd5101c57ed511e9468a7a6b25e271c27038eb8b00b030acaf146626a771",
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "A",
+						"sColour": "A"
+					}
+				],
+				"name": "Victory Bond",
+				"typeLine": "Stygian Vise",
+				"baseType": "Stygian Vise",
+				"identified": true,
+				"ilvl": 78,
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["56", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"implicitMods": ["Has 1 Abyssal Socket"],
+				"explicitMods": [
+					"+335 to Armour",
+					"+92 to maximum Life",
+					"+25% to Lightning Resistance",
+					"19% increased Flask Effect Duration"
+				],
+				"craftedMods": ["+15% to Fire and Cold Resistances"],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Belt",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NlYXJjaGluZ0V5ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ff2df16522/SearchingEye.png",
+						"league": "Hardcore Sanctum",
+						"id": "83ce69177512aa2c8608f166d7f42ad1d403afcdca2cfdf0a6f9e708a5975922",
+						"abyssJewel": true,
+						"name": "Enthralling Sphere",
+						"typeLine": "Searching Eye Jewel",
+						"baseType": "Searching Eye Jewel",
+						"identified": true,
+						"ilvl": 72,
+						"properties": [
+							{
+								"name": "Abyss",
+								"values": [],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["51", 0]],
+								"displayMode": 0,
+								"type": 62
+							}
+						],
+						"explicitMods": [
+							"Adds 11 to 24 Fire Damage to Attacks",
+							"Adds 7 to 11 Cold Damage to Attacks",
+							"+22 to maximum Life",
+							"16% increased Damage over Time while wielding a Two Handed Weapon"
+						],
+						"descrText": "Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+						"frameType": 2,
+						"socket": 0,
+						"colour": null
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvbGlmZWZsYXNrMTEiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/54ba3c70ae/lifeflask11.png",
+				"league": "Hardcore Sanctum",
+				"id": "e5bb49e7ca3bf1ef4d7f1a48380a83f46127ad65c87ca8d0741e25760b4cef08",
+				"name": "",
+				"typeLine": "Seething Divine Life Flask of Convection",
+				"baseType": "Divine Life Flask",
+				"identified": true,
+				"ilvl": 60,
+				"properties": [
+					{
+						"name": "Recovers {0} Life over {1} Seconds",
+						"values": [
+							["816", 1],
+							["3.50", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Consumes {0} of {1} Charges on use",
+						"values": [
+							["15", 0],
+							["45", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Currently has {0} Charges",
+						"values": [["45", 0]],
+						"displayMode": 3
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["60", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"explicitMods": [
+					"66% reduced Amount Recovered",
+					"Instant Recovery",
+					"Grants Immunity to Chill for 7 seconds if used while Chilled\nGrants Immunity to Freeze for 7 seconds if used while Frozen"
+				],
+				"descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+				"frameType": 1,
+				"x": 1,
+				"y": 0,
+				"inventoryId": "Flask"
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvbGlmZWZsYXNrMTEiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/54ba3c70ae/lifeflask11.png",
+				"league": "Hardcore Sanctum",
+				"id": "c651075be5e5f0421e118833d4f2e6730a5fe61b5dea8575555c76342452a71f",
+				"name": "",
+				"typeLine": "Bottomless Divine Life Flask of Alleviation",
+				"baseType": "Divine Life Flask",
+				"identified": true,
+				"ilvl": 63,
+				"properties": [
+					{
+						"name": "Recovers {0} Life over {1} Seconds",
+						"values": [
+							["2400", 0],
+							["3.50", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Consumes {0} of {1} Charges on use",
+						"values": [
+							["15", 0],
+							["45", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Currently has {0} Charges",
+						"values": [["45", 0]],
+						"displayMode": 3
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["60", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"explicitMods": [
+					"37% increased Charge Recovery",
+					"Grants Immunity to Bleeding for 11 seconds if used while Bleeding\nGrants Immunity to Corrupted Blood for 11 seconds if used while affected by Corrupted Blood"
+				],
+				"descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+				"frameType": 1,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Flask"
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL0hlbG1ldERleDkiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MSwic2VhcmluZyI6dHJ1ZSwidGFuZ2xlZCI6dHJ1ZX1d/061d98f9bd/HelmetDex9.png",
+				"league": "Hardcore Sanctum",
+				"id": "835547e9dfec0537c6a8f37fe34d6fb9feae0bdf5507c9c463108d328ac565b8",
+				"searing": true,
+				"tangled": true,
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "D",
+						"sColour": "G"
+					},
+					{
+						"group": 1,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 2,
+						"attr": "D",
+						"sColour": "G"
+					},
+					{
+						"group": 3,
+						"attr": "I",
+						"sColour": "B"
+					}
+				],
+				"name": "Corpse Salvation",
+				"typeLine": "Sinner Tricorne",
+				"baseType": "Sinner Tricorne",
+				"identified": true,
+				"ilvl": 78,
+				"properties": [
+					{
+						"name": "Quality",
+						"values": [["+20%", 1]],
+						"displayMode": 0,
+						"type": 6
+					},
+					{
+						"name": "Evasion Rating",
+						"values": [["512", 1]],
+						"displayMode": 0,
+						"type": 17
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["70", 0]],
+						"displayMode": 0,
+						"type": 62,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Str",
+						"values": [["155", 0]],
+						"displayMode": 1,
+						"type": 63,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Dex",
+						"values": [["138", 0]],
+						"displayMode": 1,
+						"type": 64
+					},
+					{
+						"name": "Int",
+						"values": [["98", 0]],
+						"displayMode": 1,
+						"type": 65,
+						"suffix": "(gem)"
+					}
+				],
+				"implicitMods": [
+					"14% increased Duration of Ailments on Enemies",
+					"7% of Physical Damage taken Recouped as Life"
+				],
+				"explicitMods": [
+					"+47 to Intelligence",
+					"+22 to Evasion Rating",
+					"+111 to maximum Life",
+					"+34% to Lightning Resistance"
+				],
+				"craftedMods": ["+20% to Fire and Cold Resistances"],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Helm",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXRlcm1pbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/64c8ca9798/Determination.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "16d357e8b42bf7bf7bd4843b9ef8bd5219532b9aaf71f2f8f661831050a80874",
+						"name": "",
+						"typeLine": "Determination",
+						"baseType": "Determination",
+						"identified": true,
+						"ilvl": 0,
+						"corrupted": true,
+						"properties": [
+							{
+								"name": "Aura, Spell, AoE, Physical",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Reservation",
+								"values": [["50% Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["1.20 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["Instant", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Casts an aura that grants armour to you and your allies.",
+						"explicitMods": [
+							"+19 to radius",
+							"You and nearby allies gain 2051 additional Armour",
+							"You and nearby allies gain 49% more Armour"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BY2N1cmFjeWFuZENyaXRpY2FsQ2hhbmNlQXVyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3996a0a9cf/AccuracyandCriticalChanceAura.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "4b6a8469838fe98d791ce4a769a87b7b728ff0818667e6e2d9062867f484c8ea",
+						"name": "",
+						"typeLine": "Precision",
+						"baseType": "Precision",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Aura, Critical, Spell, AoE",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Reservation",
+								"values": [["186 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["1.20 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["Instant", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Dex",
+								"values": [["119", 0]],
+								"displayMode": 1,
+								"type": 64
+							}
+						],
+						"secDescrText": "Casts an aura that grants accuracy and critical strike chance to you and your allies.",
+						"explicitMods": [
+							"+19 to radius",
+							"You and nearby allies gain 58% increased Critical Strike Chance",
+							"You and nearby allies gain +701 to Accuracy Rating"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 2,
+						"colour": "D"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtbWFiaWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ba43e87752/Flammability.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "f65311784b37d8f10e29d3228765db3df15c2c1961e8cbe7dc32697b2dc30ec2",
+						"name": "",
+						"typeLine": "Flammability",
+						"baseType": "Flammability",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Spell, AoE, Duration, Fire, Curse, Hex",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["50 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["0.50 sec", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["68", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["98", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"secDescrText": "Curses all targets in an area, lowering their fire resistance and giving them a chance to be ignited when hit.",
+						"explicitMods": [
+							"Base duration is 11.80 seconds",
+							"+10 to radius",
+							"Cursed enemies have -36% to Fire Resistance",
+							"Hits against Cursed Enemies have +25% chance to Ignite"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 3,
+						"colour": "I"
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 1,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvQW1ldGh5c3RSaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/804d781735/AmethystRing.png",
+				"league": "Hardcore Sanctum",
+				"id": "31bed5e5d6342f28db450d15a0edc0c62d3e38c61148482e5141ca7e2baed9f3",
+				"name": "Doom Turn",
+				"typeLine": "Amethyst Ring",
+				"baseType": "Amethyst Ring",
+				"identified": true,
+				"ilvl": 70,
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["48", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"implicitMods": ["+19% to Chaos Resistance"],
+				"explicitMods": [
+					"Adds 3 to 8 Cold Damage to Attacks",
+					"Adds 2 to 28 Lightning Damage to Attacks",
+					"+278 to Accuracy Rating",
+					"+70 to maximum Life",
+					"14% increased Rarity of Items found"
+				],
+				"craftedMods": ["+28% to Fire Resistance"],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Ring2"
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 1,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvUmluZzUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6f90cd3c4b/Ring5.png",
+				"league": "Hardcore Sanctum",
+				"id": "6a7ed9a2d4157f006619bcd8bc5bf31e80573af1992790446bb9f05bee8ce45f",
+				"name": "Bramble Whorl",
+				"typeLine": "Topaz Ring",
+				"baseType": "Topaz Ring",
+				"identified": true,
+				"ilvl": 64,
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["54", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"implicitMods": ["+27% to Lightning Resistance"],
+				"explicitMods": [
+					"+48 to maximum Mana",
+					"12% increased Rarity of Items found",
+					"+38% to Cold Resistance",
+					"+29% to Lightning Resistance",
+					"30% increased Elemental Damage with Attack Skills"
+				],
+				"craftedMods": ["+49 to maximum Life"],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Ring"
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQW1ldGh5c3QiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/0f93f9050a/Amethyst.png",
+				"league": "Hardcore Sanctum",
+				"id": "9a14f6b6dee99419843826e0a053789d66bcbeaa539ecff4d7885c826a59352e",
+				"name": "",
+				"typeLine": "Apprentice's Amethyst Flask of the Narwhal",
+				"baseType": "Amethyst Flask",
+				"identified": true,
+				"ilvl": 62,
+				"properties": [
+					{
+						"name": "Quality",
+						"values": [["+15%", 1]],
+						"displayMode": 0,
+						"type": 6
+					},
+					{
+						"name": "Lasts {0} Seconds",
+						"values": [["7.50", 1]],
+						"displayMode": 3
+					},
+					{
+						"name": "Consumes {0} of {1} Charges on use",
+						"values": [
+							["29", 1],
+							["65", 0]
+						],
+						"displayMode": 3
+					},
+					{
+						"name": "Currently has {0} Charges",
+						"values": [["65", 0]],
+						"displayMode": 3
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["33", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"utilityMods": ["+35% to Chaos Resistance"],
+				"explicitMods": [
+					"15% reduced Charges per use",
+					"43% chance to Avoid being Chilled during Effect",
+					"42% chance to Avoid being Frozen during Effect"
+				],
+				"descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+				"frameType": 1,
+				"x": 4,
+				"y": 0,
+				"inventoryId": "Flask"
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 2,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvR2xvdmVzRGV4MyIsInciOjIsImgiOjIsInNjYWxlIjoxLCJzZWFyaW5nIjp0cnVlfV0/c8c315462a/GlovesDex3.png",
+				"league": "Hardcore Sanctum",
+				"id": "8ea774bb6e1ce522a736ed26ab481ffbf0ddb9a6680bbe4ba9d56951094131e6",
+				"searing": true,
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "D",
+						"sColour": "G"
+					},
+					{
+						"group": 1,
+						"attr": "D",
+						"sColour": "G"
+					},
+					{
+						"group": 1,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 2,
+						"attr": "S",
+						"sColour": "R"
+					}
+				],
+				"name": "Rapture Nails",
+				"typeLine": "Stealth Gloves",
+				"baseType": "Stealth Gloves",
+				"identified": true,
+				"ilvl": 75,
+				"properties": [
+					{
+						"name": "Evasion Rating",
+						"values": [["272", 1]],
+						"displayMode": 0,
+						"type": 17
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["70", 0]],
+						"displayMode": 0,
+						"type": 62,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Str",
+						"values": [["155", 0]],
+						"displayMode": 1,
+						"type": 63,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Dex",
+						"values": [["155", 0]],
+						"displayMode": 1,
+						"type": 64,
+						"suffix": "(gem)"
+					}
+				],
+				"implicitMods": ["Ignites you inflict spread to other Enemies within a Radius of 12"],
+				"explicitMods": [
+					"+8% chance to Suppress Spell Damage",
+					"+409 to Accuracy Rating",
+					"+17 to Evasion Rating",
+					"+34 to maximum Life",
+					"+18% to Lightning Resistance",
+					"0.35% of Physical Attack Damage Leeched as Life"
+				],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Gloves",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFJhZ2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0a98a6bf95/BloodRage.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "7c19e219755fbc6ee59e01ef39890628246d7f4b38b929c786d0611f6e697f85",
+						"name": "",
+						"typeLine": "Blood Rage",
+						"baseType": "Blood Rage",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Spell, Duration, Physical",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["29 Life", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["1.00 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["Instant", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Quality",
+								"values": [["+20%", 1]],
+								"displayMode": 0,
+								"type": 6
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Dex",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 64
+							}
+						],
+						"secDescrText": "Adds a buff that deals Physical Damage over time, while increasing Attack Speed and Life Leech. Killing an enemy while this buff is active refreshes the buff duration, and can grant a Frenzy Charge.",
+						"explicitMods": [
+							"Base duration is 10.80 seconds",
+							"Grants 20% increased Attack Speed",
+							"1.2% of Attack Physical Damage Leeched as Life",
+							"You take 4% of your Maximum Life per second as Physical Damage",
+							"You take 4% of your Maximum Energy Shield per second as Physical Damage",
+							"25% chance to gain a Frenzy Charge on Kill"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 0,
+						"colour": "D"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9RdWlja0Rhc2hHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9b7d6a4128/QuickDashGem.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "e984d0b27ab09bed1bacfe92d1895174e7a33f83040b264a2b62b33bbd54ffc8",
+						"name": "",
+						"typeLine": "Dash",
+						"baseType": "Dash",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Spell, Movement, Travel, Blink",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["16 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["2.50 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cast Time",
+								"values": [["0.15 sec", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Dex",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 64
+							}
+						],
+						"secDescrText": "Performs a series of quick teleports towards a targeted location. If using the \"Attack in Place\" option, the direction is reversed. Shares a cooldown with other Blink skills.",
+						"explicitMods": [
+							"19% increased Cooldown Recovery Rate",
+							"57% increased travel distance",
+							"This Spell's Cast Speed cannot be modified"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "D"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmNlc3RvclRvdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/adc32d4b40/AncestorTotem.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "2ee739a0245334ec3c994ed456b1c052e51ad846ea38172f08c6fab0a4232964",
+						"name": "",
+						"typeLine": "Ancestral Protector",
+						"baseType": "Ancestral Protector",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Attack, Totem, Melee, Strike",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["8 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Attack Damage",
+								"values": [["180% of base", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Effectiveness of Added Damage",
+								"values": [["180%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Summons an Ancestor Totem which attacks enemies with melee strikes while you're near it. Being near it grants you more attack speed. Requires a Melee Weapon or Unarmed.",
+						"explicitMods": [
+							"Totem lasts 12 seconds",
+							"Summons a Totem which uses this Skill",
+							"20% more Attack Speed while Totem is Active",
+							"50% increased Totem Placement speed",
+							"+18 to Melee Strike Range"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 2,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbmR1cmluZ0NyeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4c160bac55/EnduringCry.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "a8acbdd151a38ba9a24a87def80303657d054a8fe46e38677fe2460a9bfd90cd",
+						"name": "",
+						"typeLine": "Enduring Cry",
+						"baseType": "Enduring Cry",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Warcry, AoE, Duration",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["19 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Cooldown Time",
+								"values": [["8.00 sec", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Use Time",
+								"values": [["0.80 sec", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Performs a warcry, taunting all nearby enemies to attack the user and granting endurance charges. Gives a brief burst of life regeneration, as well as a buff which grants resistances and physical damage reduction based on your endurance charges.",
+						"explicitMods": [
+							"Base duration is 2.00 seconds",
+							"Regenerate 1976 Life over 1 second",
+							"38% increased Warcry Speed",
+							"Counts total Power of Enemies in Range",
+							"Gain 1 Endurance Charge per 5 Power",
+							"Buff grants 2% additional Physical Damage Reduction per Endurance Charge",
+							"Buff grants +2% to all Elemental Resistances per Endurance Charge"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 3,
+						"colour": "S"
+					}
+				]
+			},
+			{
+				"verified": false,
+				"w": 1,
+				"h": 1,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9BZ2F0ZUFtdWxldCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/710a5a8ec4/AgateAmulet.png",
+				"league": "Hardcore Sanctum",
+				"id": "910c8fe4fee6aa65ae6e00c81098e3db82780dd58c08df1fa45962839c68e825",
+				"name": "Cataclysm Scarab",
+				"typeLine": "Agate Amulet",
+				"baseType": "Agate Amulet",
+				"identified": true,
+				"ilvl": 54,
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["40", 0]],
+						"displayMode": 0,
+						"type": 62
+					}
+				],
+				"implicitMods": ["+19 to Strength and Intelligence"],
+				"explicitMods": [
+					"20% increased Cold Damage",
+					"Adds 2 to 22 Lightning Damage to Attacks",
+					"+20 to maximum Energy Shield",
+					"+44 to maximum Life",
+					"+12% to all Elemental Resistances",
+					"+27% to Cold Resistance"
+				],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "Amulet"
+			},
+			{
+				"verified": false,
+				"w": 2,
+				"h": 3,
+				"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Cb2R5U3RySW50MUIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwic2VhcmluZyI6dHJ1ZSwidGFuZ2xlZCI6dHJ1ZX1d/b0a50c5137/BodyStrInt1B.png",
+				"league": "Hardcore Sanctum",
+				"id": "31d2f3a9272a36b3995475554ce39d6a2c26633f1873ebddc958a8d1effbe739",
+				"searing": true,
+				"tangled": true,
+				"sockets": [
+					{
+						"group": 0,
+						"attr": "I",
+						"sColour": "B"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "S",
+						"sColour": "R"
+					},
+					{
+						"group": 0,
+						"attr": "I",
+						"sColour": "B"
+					},
+					{
+						"group": 0,
+						"attr": "I",
+						"sColour": "B"
+					}
+				],
+				"name": "Pandemonium Hide",
+				"typeLine": "Loricated Ringmail",
+				"baseType": "Loricated Ringmail",
+				"identified": true,
+				"ilvl": 85,
+				"properties": [
+					{
+						"name": "Quality",
+						"values": [["+20%", 1]],
+						"displayMode": 0,
+						"type": 6
+					},
+					{
+						"name": "Armour",
+						"values": [["740", 1]],
+						"displayMode": 0,
+						"type": 16
+					},
+					{
+						"name": "Energy Shield",
+						"values": [["83", 1]],
+						"displayMode": 0,
+						"type": 18
+					}
+				],
+				"requirements": [
+					{
+						"name": "Level",
+						"values": [["70", 0]],
+						"displayMode": 0,
+						"type": 62,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Str",
+						"values": [["155", 0]],
+						"displayMode": 1,
+						"type": 63,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Dex",
+						"values": [["48", 0]],
+						"displayMode": 1,
+						"type": 64,
+						"suffix": "(gem)"
+					},
+					{
+						"name": "Int",
+						"values": [["108", 0]],
+						"displayMode": 1,
+						"type": 65,
+						"suffix": "(gem)"
+					}
+				],
+				"implicitMods": ["Grace has 20% increased Aura Effect", "+1% to maximum Cold Resistance"],
+				"explicitMods": [
+					"+94 to maximum Life",
+					"+42% to Lightning Resistance",
+					"+35% to Chaos Resistance",
+					"25% increased Stun and Block Recovery"
+				],
+				"craftedMods": ["+276 to Armour"],
+				"frameType": 2,
+				"x": 0,
+				"y": 0,
+				"inventoryId": "BodyArmour",
+				"socketedItems": [
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0ltbW9sYXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/af3f7bc354/Immolate.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "d25b593c3afa472b08d5e81d65784b2a79a33ec46cf9fef9fa61a553ec18fa61",
+						"name": "",
+						"typeLine": "Immolate Support",
+						"baseType": "Immolate Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Fire, Support",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["19", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["120%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["69", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["48", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Int",
+								"values": [["69", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["152192457/157405063", 0]],
+								"displayMode": 2,
+								"progress": 0.97,
+								"type": 20
+							}
+						],
+						"secDescrText": "Supports any skill that hits enemies.",
+						"explicitMods": ["Supported Skills deal 196 to 294 added Fire Damage against Burning Enemies"],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 0,
+						"colour": "I"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsTW9sdGVuU3RyaWtlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/434683c1e6/VaalMoltenStrike.png",
+						"support": false,
+						"league": "Hardcore Sanctum",
+						"id": "5eb0dc7a354adf04aa061a51d20fdcd919db79914a0dcb090acc3e092c8e4688",
+						"name": "",
+						"typeLine": "Vaal Molten Strike",
+						"baseType": "Vaal Molten Strike",
+						"identified": true,
+						"ilvl": 0,
+						"corrupted": true,
+						"properties": [
+							{
+								"name": "Attack, Projectile, AoE, Melee, Strike, Fire, Chaining, Vaal",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost",
+								"values": [["6 Mana", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Attack Damage",
+								"values": [["185% of base", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Effectiveness of Added Damage",
+								"values": [["185%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["155", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Infuses your melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth from the enemies you hit, divided amongst all enemies hit by the strike. These will explode, causing AoE attack damage to enemies where they land.",
+						"explicitMods": [
+							"75 to 113 Added Fire Damage",
+							"Fires 3 additional Projectiles",
+							"60% of Physical Damage Converted to Fire Damage",
+							"+6 to Melee Strike Range",
+							"Projectiles deal 50% less Damage with Hits and Ailments"
+						],
+						"descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 1,
+						"colour": "S",
+						"hybrid": {
+							"isVaalGem": true,
+							"baseTypeName": "Molten Strike",
+							"properties": [
+								{
+									"name": "Souls Per Use",
+									"values": [["15", 0]],
+									"displayMode": 0
+								},
+								{
+									"name": "Can Store {0} Uses",
+									"values": [["3", 0]],
+									"displayMode": 3
+								},
+								{
+									"name": "Soul Gain Prevention",
+									"values": [["3 sec", 0]],
+									"displayMode": 0
+								},
+								{
+									"name": "Attack Speed",
+									"values": [["70% of base", 0]],
+									"displayMode": 0
+								},
+								{
+									"name": "Attack Damage",
+									"values": [["110% of base", 0]],
+									"displayMode": 0
+								},
+								{
+									"name": "Effectiveness of Added Damage",
+									"values": [["110%", 0]],
+									"displayMode": 0
+								}
+							],
+							"explicitMods": [
+								"75 to 113 Added Fire Damage",
+								"Chains +8 Times",
+								"Fires 8 additional Projectiles",
+								"60% of Physical Damage Converted to Fire Damage",
+								"+4 to radius",
+								"Can't be Evaded",
+								"Projectiles can Chain when impacting the ground\nProjectiles do not change direction when Chaining"
+							],
+							"secDescrText": "Infuses your melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth causing AoE attack damage to enemies where they land."
+						}
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0ZpcmVQZW5ldHJhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/191dcc704c/FirePenetration.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "600dee8e1a9f2f91bb43b3ea32a0b84e46ab842ebc88000593ffb83ed70e78e0",
+						"name": "",
+						"typeLine": "Fire Penetration Support",
+						"baseType": "Fire Penetration Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Fire, Support",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["130%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Quality",
+								"values": [["+20%", 1]],
+								"displayMode": 0,
+								"type": 6
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["111", 0]],
+								"displayMode": 1,
+								"type": 63
+							}
+						],
+						"secDescrText": "Supports any skill that hits enemies, making those hits penetrate enemy fire resistance.",
+						"explicitMods": [
+							"Supported Skills Penetrate 34% Fire Resistance",
+							"Supported Skills deal 10% increased Fire Damage"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 2,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L211bHRpcGxlYXR0YWNrcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/49bb71ab5f/multipleattacks.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "24fd109c106366e48743d8500c894b18dd0856377b82d9f3227529a20ee2f676",
+						"name": "",
+						"typeLine": "Multistrike Support",
+						"baseType": "Multistrike Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Attack, Melee, Support",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["20 (Max)", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["150%", 0]],
+								"displayMode": 0
+							},
+							{
+								"name": "Quality",
+								"values": [["+20%", 1]],
+								"displayMode": 0,
+								"type": 6
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["70", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Str",
+								"values": [["70", 0]],
+								"displayMode": 1,
+								"type": 63
+							},
+							{
+								"name": "Dex",
+								"values": [["48", 0]],
+								"displayMode": 1,
+								"type": 64
+							}
+						],
+						"secDescrText": "Supports melee attack skills, making them repeat twice when used, targeting a random enemy each time. Cannot support Vaal skills, channelling skills or triggered skills.",
+						"explicitMods": [
+							"Supported Skills Repeat 2 additional times",
+							"Supported Skills have 44% more Melee Attack Speed",
+							"Supported Skills deal 20% less Attack Damage",
+							"Supported Skills deal 10% increased Melee Physical Damage",
+							"First Repeat of Supported Skills deals 22% more Damage",
+							"Second Repeat of Supported Skills deals 44% more Damage"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 3,
+						"colour": "S"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0NoYW5jZXRvSWduaXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b24521e59a/ChancetoIgnite.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "3264436f7bfa2a1c601d8a3d8bb3a7b0a187ebf92684aeab35490c67223ce125",
+						"name": "",
+						"typeLine": "Combustion Support",
+						"baseType": "Combustion Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Fire, Support",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["19", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["130%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["67", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Int",
+								"values": [["106", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["158156616/242078618", 0]],
+								"displayMode": 2,
+								"progress": 0.65,
+								"type": 20
+							}
+						],
+						"secDescrText": "Supports any skill that hits enemies.",
+						"explicitMods": [
+							"Supported Skills deal 19% more Fire Damage",
+							"Supported Skills have 25% chance to Ignite",
+							"Enemies Ignited by Supported Skills have -10% to Fire Resistance"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 4,
+						"colour": "I"
+					},
+					{
+						"verified": false,
+						"w": 1,
+						"h": 1,
+						"icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0NvbmNlbnRyYXRlZEFPRSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4db641d292/ConcentratedAOE.png",
+						"support": true,
+						"league": "Hardcore Sanctum",
+						"id": "184eb618a91457d9d682bff87937847dd8e7c5d73cd26cb97b3099e8b974361d",
+						"name": "",
+						"typeLine": "Concentrated Effect Support",
+						"baseType": "Concentrated Effect Support",
+						"identified": true,
+						"ilvl": 0,
+						"properties": [
+							{
+								"name": "Support, AoE",
+								"values": [],
+								"displayMode": 0
+							},
+							{
+								"name": "Level",
+								"values": [["19", 0]],
+								"displayMode": 0,
+								"type": 5
+							},
+							{
+								"name": "Cost & Reservation Multiplier",
+								"values": [["140%", 0]],
+								"displayMode": 0
+							}
+						],
+						"requirements": [
+							{
+								"name": "Level",
+								"values": [["68", 0]],
+								"displayMode": 0,
+								"type": 62
+							},
+							{
+								"name": "Int",
+								"values": [["108", 0]],
+								"displayMode": 1,
+								"type": 65
+							}
+						],
+						"additionalProperties": [
+							{
+								"name": "Experience",
+								"values": [["184677773/212002638", 0]],
+								"displayMode": 2,
+								"progress": 0.87,
+								"type": 20
+							}
+						],
+						"secDescrText": "Supports any skill with an area of effect, regardless of whether that skill deals damage.",
+						"explicitMods": [
+							"Supported Skills deal 38% more Area Damage",
+							"Supported Skills have 30% less Area of Effect"
+						],
+						"descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+						"frameType": 4,
+						"socket": 5,
+						"colour": "I"
+					}
+				]
+			}
+		],
+		"character": {
+			"name": "SHONYAMeleeLeague",
+			"league": "Hardcore Sanctum",
+			"classId": 1,
+			"ascendancyClass": 1,
+			"class": "Juggernaut",
+			"level": 93,
+			"experience": 2465646783
+		}
+	}
+}

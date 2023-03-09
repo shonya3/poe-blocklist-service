@@ -8,7 +8,7 @@ const getCharacterInfo = async (account, character) => {
 		const items = await response.json();
 		return items;
 	} catch (err) {
-		console.log(`ERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR`, err);
+		return null;
 	}
 };
 
@@ -29,11 +29,20 @@ const fetchChactersPage = async profile => {
 	return response.text();
 };
 
-const loadNames = async users => {
-	return Promise.all(users.map(async user => ({ [`${user}`]: getNameFromHtmlText(await fetchChactersPage(user)) })));
+const loadActiveNamesByProfiles = async profiles => {
+	const profilesWithActiveNames = {};
+	await Promise.all(
+		profiles.map(async profile => {
+			const html = await fetchChactersPage(profile);
+			const activeCharacterName = getNameFromHtmlText(html);
+			profilesWithActiveNames[profile] = activeCharacterName;
+		})
+	);
+
+	return profilesWithActiveNames;
 };
 
 export const CharacterService = {
 	getCharacterInfo,
-	loadNames,
+	loadActiveNamesByProfiles,
 };

@@ -8,13 +8,7 @@ app.use(express.json({ limit: '10kb' }));
 app.use(cors());
 app.options('*', cors());
 
-app.get('/get-items', async (req, res) => {
-	const { character, accountName } = req.query;
-	const items = await CharacterService.getCharacterInfo(accountName, character);
-	res.json(items);
-});
-
-app.post('/active-character-names', async (req, res) => {
+app.post('/active', async (req, res) => {
 	try {
 		const { profiles } = req.body;
 		if (!profiles) {
@@ -23,12 +17,35 @@ app.post('/active-character-names', async (req, res) => {
 				message: 'Expected profiles array.',
 			});
 		}
-		const names = await CharacterService.loadNames(profiles);
-		res.status(200).json({
-			names,
-		});
+		const names = await CharacterService.loadActiveNamesByProfiles(profiles);
+		res.status(200).json(names);
 	} catch (err) {
 		console.log('Error', err);
+	}
+});
+
+app.post('/info', async (req, res) => {
+	try {
+		const { profiles } = req.body;
+		if (!profiles) {
+			return res.status(400).json({
+				status: 'error',
+				message: 'Expected profiles array.',
+			});
+		}
+
+		const profilesWithActiveNames = await CharacterService.loadActiveNamesByProfiles(profiles);
+		const infosByProfile = {};
+		const promises = Object.entries(profilesWithActiveNames).map(async ([profile, activeCharacterName]) => {
+			const info = await CharacterService.getCharacterInfo(profile, activeCharacterName);
+			infosByProfile[profile] = info;
+		});
+
+		await Promise.all(promises);
+
+		res.status(200).json(infosByProfile);
+	} catch (err) {
+		console.log(err);
 	}
 });
 
